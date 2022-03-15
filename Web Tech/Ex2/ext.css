@@ -1,0 +1,26 @@
+.left{
+    background-color: crimson;
+    text-decoration-line: underline;
+    text-decoration-color: chocolate;
+    font-variant: small-caps;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 5px;
+    padding:25px;
+    margin: 5px;
+}
+.right{
+    background-color: forestgreen;
+    text-shadow: 100%;
+    font-stretch: semi-expanded;
+    border: 5px;
+    padding:25px;
+    margin: 5px;
+}
+.center{
+    background-color: darkslateblue;
+    text-transform:uppercase;
+    font-stretch:ultra-expanded;
+    border: 5px;
+    padding:25px;
+    margin: 5px;
+}
